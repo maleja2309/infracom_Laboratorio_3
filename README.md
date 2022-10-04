@@ -6,11 +6,12 @@
 
 ## Ejecución del código 
 ### Pasos:
-1. Cambiar la ruta en donde se buscan los archivos y los de destino.
-2. Ejecutar el servidor.
-3. Seleccionar el archivo que se quiere transferir.
-4. Ejecutar el Main.
-5. Especificar el número de usuarios a los cuales ya se tiene una confirmación y se van a transferir los archivos.
+1. Cambiar la ruta en donde se buscan los archivos y los de destino en los archivos *ProtocoloCliente* y *ProtocoloServidor*.
+2. Agregar las carpetas *Archivos_de_Envio* y *ArchivosRecibidos*.
+3. Ejecutar el servidor.
+4. Seleccionar el archivo que se quiere transferir.
+5. Ejecutar el Main.
+6. Especificar el número de usuarios a los cuales ya se tiene una confirmación y se van a transferir los archivos.
 
 ### Carpetas y sus archivos
 1. **Logs**: Registros de los tiempos para servidor y para los clientes.
