@@ -1,0 +1,6 @@
+Cliente: 0
+ Nombre: 100MB
+ Tamaño: 100MB
+ Estado: true
+ Tiempo: 8.388608E8 ns
+ Log: Servidor

@@ -1,0 +1,6 @@
+Cliente: 1
+ Nombre: 100MB
+ Tamaño: 100MB
+ Estado: true
+ Tiempo: 3.69098752E8 ns
+ Log: Cliente
